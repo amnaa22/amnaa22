@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Amna</h1>
 <h3 align="center">I just recently graduated at Faculty of Traffic and Communications, major in Computer and Information Technology</h3>
 
-- 🌱 I’m currently learning and improving my Web development skills, since i want to direct my future carier towards  **JS Frameworks (React, Angular and Vue) and CSS Frameworks (Tailwind, Bootstrap)**
+- 🌱 I’m currently learning and improving my Web development skills, since i want to direct my future carier towards this field.
+- 👩‍💻 Learning in progress: **JS Frameworks (React, Angular and Vue) and CSS Frameworks (Tailwind, Bootstrap)**
 
 - 🥅 2023 Goal: **Create more projects !**
 
