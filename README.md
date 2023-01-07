@@ -3,7 +3,8 @@
 <h3 align="center">I just recently graduated at Faculty of Traffic and Communications, major in Computer and Information Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://www.creativefabrica.com/wp-content/uploads/2020/11/30/Smiling-young-woman-sitting-thinking-Graphics-6913714-1-580x434.jpg">
 
-- 🌱 I’m currently learning and improving my Web development skills, since i want to direct my future carier towards this field.
+- 🌱 I'm currently learning and improving my Web development skills, since I want to direct my career towards this field.
+
 - 👩‍💻 Learning in progress: **JS Frameworks (React, Angular and Vue) and CSS Frameworks (Tailwind, Bootstrap)**
 
 - 🥅 2023 Goal: **Create more projects !**
