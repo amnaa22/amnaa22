@@ -1,14 +1,16 @@
+[![MasterHead](https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/Innovate%20-%20AIML/innovate-aiml-animated-bg.d14ec0889a3375b51bb2d033c585f998364489d1.gif)](https://rishavchanda.io)
 <h1 align="center">Hi there 👋, I'm Amna</h1>
 <h3 align="center">I just recently graduated at Faculty of Traffic and Communications, major in Computer and Information Technology</h3>
+<img align="right" alt="Coding" width="400" src="https://www.creativefabrica.com/wp-content/uploads/2020/11/30/Smiling-young-woman-sitting-thinking-Graphics-6913714-1-580x434.jpg">
 
 - 🌱 I’m currently learning and improving my Web development skills, since i want to direct my future carier towards this field.
 - 👩‍💻 Learning in progress: **JS Frameworks (React, Angular and Vue) and CSS Frameworks (Tailwind, Bootstrap)**
 
 - 🥅 2023 Goal: **Create more projects !**
 
-- 📫 How to reach me **amnapapucic@gmail.com**
+- 📫 How to reach me: **amnapapucic@gmail.com**
 
-- ⚡ Fun fact **I love to draw and play video games**
+- ⚡ Fun fact: **I love to draw and play video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
