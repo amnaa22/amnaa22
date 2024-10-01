@@ -1,7 +1,7 @@
 [![MasterHead](https://d1.awsstatic.com/events/aws-hosted-events/2020/APAC/Innovate%20-%20AIML/innovate-aiml-animated-bg.d14ec0889a3375b51bb2d033c585f998364489d1.gif)](https://rishavchanda.io)
 <h1 align="center">Hi there 👋, I'm Amna</h1>
 <h3 align="center">I just recently graduated at Faculty of Traffic and Communications, major in Computer and Information Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://www.creativefabrica.com/wp-content/uploads/2020/11/30/Smiling-young-woman-sitting-thinking-Graphics-6913714-1-580x434.jpg">
+<img align="right" alt="Coding" width="400" src="[https://www.creativefabrica.com/wp-content/uploads/2020/11/30/Smiling-young-woman-sitting-thinking-Graphics-6913714-1-580x434.jpg](https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png)">
 
 - 🌱 I'm currently learning and improving my Web development skills, since I want to direct my career towards this field.
 
